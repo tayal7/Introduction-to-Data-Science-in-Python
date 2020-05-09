@@ -1,1 +1,2 @@
-# Introduction to Data Science in Python - Coursera assignments
+# Introduction to Data Science in Python 
+  - Coursera assignments
